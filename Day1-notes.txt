@@ -30,6 +30,6 @@ Gitbash: CLI (Command line interface) -> For windows systems/Linux systems to co
 
 EC2 -> Elastic Compute cloud (Virtual machines)
 
-
+welcome
 
 
