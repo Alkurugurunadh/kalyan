@@ -9,7 +9,7 @@ ssh -i <pem file name> <ec2 server username>@ip address of server
 
 ssh -I batch22.pem <ec2 server username>@51.20.143.172
 
-
+ Linux commands
 
 # List of ec2 server usernames:
 
