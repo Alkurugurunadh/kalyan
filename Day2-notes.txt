@@ -1,0 +1,61 @@
+# Topics:
+
+1. How to launch an EC2	instance in AWS.
+2. How to connect to the EC2 servers using the Gitbash
+3. Linux commands
+
+
+ssh -i <pem file name> <ec2 server username>@ip address of server
+
+ssh -I batch22.pem <ec2 server username>@51.20.143.172
+
+
+
+# List of ec2 server usernames:
+
+1. Amazon Linux OS -> ec2-user
+2. Redhat OS -> ec2-user
+3. Ubuntu OS -> ubuntu
+4. Centos -> centos
+5. Windows OS -> Adminstrator
+
+ssh -i batch22.pem ubuntu@51.20.143.172
+
+ssh -> secure shell
+
+default port of SSH -> 22
+
+sudo su -> login as a root user
+
+
+Yum-> package manager for the amazon Linux OS
+apt -> package manager for Ubuntu OS
+
+apt install java
+yum install java
+
+apt install Jenkins
+yum install Jenkins
+
+-rw-r--r-- 1 root   root      0 Nov 17 01:40 devops.txt
+drwxr-xr-x 2 root   root   4096 Nov 17 01:40 demo
+
+
+r -> read
+w -> write
+x -> Execute
+
+
+unzip <zip file>
+
+Command 'unzip' not found
+command 'java' not found
+
+apt install unzip
+
+
+tar -xvzf <tar file name>
+
+
+
+

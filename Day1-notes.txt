@@ -1,0 +1,35 @@
+# DevOps:
+
+Development + Operations
+
+Build, Deployment and Automation
+
+Build -> Creating the packages (.jar/.war/.ear/.zip/.tar.....)
+Deployment -> Deploy the packages in different servers
+
+Environments: 
+
+Development
+Integration
+staging
+Production
+
+DevOps -> Combination of tools
+AWS    -> Combination of services
+
+
+
+# Topics:
+
+1. Aws free tier account
+2. Gitbash
+3. How to launch EC2 server in the AWS.
+
+
+Gitbash: CLI (Command line interface) -> For windows systems/Linux systems to connect with different servers and also we can run git commands to connect git repositories.
+
+EC2 -> Elastic Compute cloud (Virtual machines)
+
+
+
+
