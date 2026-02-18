@@ -8,6 +8,7 @@ Build -> Creating the packages (.jar/.war/.ear/.zip/.tar.....)
 Deployment -> Deploy the packages in different servers
 
 Environments: 
+Build -> Creating the packages (.jar/.war/.ear/.zip/.tar.....)
 
 Development
 Integration
